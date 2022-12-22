@@ -1,6 +1,9 @@
 {
   "redis": {
-    "host": "127.0.0.1",
-    "port": 6379
+    "url": "redis://default:OUSX7ioS9NjawPzkGmiA@containers-us-west-23.railway.app:7108",
+    "host": "containers-us-west-23.railway.app",
+    "port": 7108,
+    "user": "default",
+    "password": "OUSX7ioS9NjawPzkGmiA"
   }
 }
